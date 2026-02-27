@@ -1,0 +1,24 @@
+# Flutter Task Management App
+
+## Summary
+A modern, responsive Task Management app built with Flutter, featuring API integration, state management, offline-first support, and clean UI/UX.
+
+## Description
+This Flutter application allows users to manage their daily tasks efficiently. Users can log in, view tasks, create, edit, and delete tasks, and filter them by status and due date. The app supports pull-to-refresh, proper loading and error states, and offline caching of tasks. Built with a focus on clean architecture, responsive design, and production-ready performance.
+
+## Features
+- User Login & Registration (mock API or real backend)
+- View task list with filtering and sorting
+- Create, Edit, Delete tasks via API
+- Task fields: Title, Description, Status, Due Date
+- Pull-to-refresh for task list
+- Offline-first support and local caching
+- Clean, responsive Material 3 design
+- Optional: Dark mode support, pagination, micro-interactions
+
+## Setup Instructions
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/your-username/flutter-task-app.git
+cd flutter-task-app
